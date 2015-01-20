@@ -51,8 +51,8 @@
       <file leaf-file-name="ListTester.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ListTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="612">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,9 +61,53 @@
       <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.283124" vertical-offset="0" max-vertical-offset="4658">
-              <caret line="285" column="5" selection-start-line="285" selection-start-column="5" selection-end-line="285" selection-end-column="5" />
-              <folding />
+            <state vertical-scroll-proportion="-1.7934272" vertical-offset="2252" max-vertical-offset="2669">
+              <caret line="285" column="90" selection-start-line="285" selection-start-column="90" selection-end-line="285" selection-end-column="90" />
+              <folding>
+                <element signature="docComment;method#MyLinkedList#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#clear#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="method#doClear#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="e#540#600#0" expanded="false" />
+                <element signature="docComment;method#add#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="method#add#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#add#1;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#addBefore#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="method#addBefore#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#remove#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#remove#1;class#MyLinkedList#0" expanded="false" />
+                <element signature="method#remove#1;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#get#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="e#2906#2907#0" expanded="true" />
+                <element signature="e#2946#2947#0" expanded="true" />
+                <element signature="docComment;method#set#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#getNode#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#getNode#1;class#MyLinkedList#0" expanded="false" />
+                <element signature="method#getNode#1;class#MyLinkedList#0" expanded="false" />
+                <element signature="e#4183#4249#0" expanded="false" />
+                <element signature="docComment;method#size#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#isEmpty#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="e#5665#5666#0" expanded="true" />
+                <element signature="e#5699#5700#0" expanded="true" />
+                <element signature="docComment;method#contains#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="method#contains#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="docComment;method#toString#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="method#toString#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="e#6696#6697#0" expanded="true" />
+                <element signature="e#6743#6744#0" expanded="true" />
+                <element signature="docComment;class#Node#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="class#Node#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="method#Node#0;class#Node#0;class#MyLinkedList#0" expanded="false" />
+                <element signature="e#7751#7752#0" expanded="true" />
+                <element signature="e#7852#7853#0" expanded="true" />
+                <element signature="e#7889#7890#0" expanded="true" />
+                <element signature="e#7984#7985#0" expanded="true" />
+                <element signature="e#8137#8138#0" expanded="true" />
+                <element signature="e#8238#8239#0" expanded="true" />
+                <element signature="e#8273#8274#0" expanded="true" />
+                <element signature="e#8374#8375#0" expanded="true" />
+                <element signature="e#8428#8429#0" expanded="true" />
+                <element signature="e#8479#8480#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,10 +125,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="854" />
+    <option name="x" value="95" />
+    <option name="y" value="181" />
+    <option name="width" value="1328" />
+    <option name="height" value="595" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -356,33 +400,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="854" extended-state="6" />
-    <editor active="false" />
+    <frame x="95" y="181" width="1328" height="595" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5041152" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30487806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -402,7 +446,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -443,7 +489,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4658">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="docComment;method#MyLinkedList#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#doClear#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#540#600#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#add#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#add#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#addBefore#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#addBefore#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#remove#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#remove#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#2906#2907#0" expanded="true" />
+            <element signature="e#2946#2947#0" expanded="true" />
+            <element signature="docComment;method#set#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#getNode#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#getNode#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#getNode#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#4183#4249#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#5665#5666#0" expanded="true" />
+            <element signature="e#5699#5700#0" expanded="true" />
+            <element signature="docComment;method#contains#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#contains#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#toString#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#6696#6697#0" expanded="true" />
+            <element signature="e#6743#6744#0" expanded="true" />
+            <element signature="docComment;class#Node#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="class#Node#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#7751#7752#0" expanded="true" />
+            <element signature="e#7852#7853#0" expanded="true" />
+            <element signature="e#7889#7890#0" expanded="true" />
+            <element signature="e#7984#7985#0" expanded="true" />
+            <element signature="e#8137#8138#0" expanded="true" />
+            <element signature="e#8238#8239#0" expanded="true" />
+            <element signature="e#8273#8274#0" expanded="true" />
+            <element signature="e#8374#8375#0" expanded="true" />
+            <element signature="e#8428#8429#0" expanded="true" />
+            <element signature="e#8479#8480#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -480,7 +570,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4998">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="docComment;method#MyLinkedList#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#doClear#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#540#600#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#add#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#add#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#addBefore#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#addBefore#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#remove#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#remove#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#2906#2907#0" expanded="true" />
+            <element signature="e#2946#2947#0" expanded="true" />
+            <element signature="docComment;method#set#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#getNode#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#getNode#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#getNode#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#4183#4249#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#5665#5666#0" expanded="true" />
+            <element signature="e#5699#5700#0" expanded="true" />
+            <element signature="docComment;method#contains#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#contains#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#toString#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#6696#6697#0" expanded="true" />
+            <element signature="e#6743#6744#0" expanded="true" />
+            <element signature="docComment;class#Node#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="class#Node#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#7751#7752#0" expanded="true" />
+            <element signature="e#7852#7853#0" expanded="true" />
+            <element signature="e#7889#7890#0" expanded="true" />
+            <element signature="e#7984#7985#0" expanded="true" />
+            <element signature="e#8137#8138#0" expanded="true" />
+            <element signature="e#8238#8239#0" expanded="true" />
+            <element signature="e#8273#8274#0" expanded="true" />
+            <element signature="e#8374#8375#0" expanded="true" />
+            <element signature="e#8428#8429#0" expanded="true" />
+            <element signature="e#8479#8480#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -507,17 +641,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ListTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.283124" vertical-offset="0" max-vertical-offset="4658">
-          <caret line="285" column="5" selection-start-line="285" selection-start-column="5" selection-end-line="285" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="-1.7934272" vertical-offset="2252" max-vertical-offset="2669">
+          <caret line="285" column="90" selection-start-line="285" selection-start-column="90" selection-end-line="285" selection-end-column="90" />
+          <folding>
+            <element signature="docComment;method#MyLinkedList#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#doClear#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#540#600#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#add#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#add#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#addBefore#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#addBefore#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#remove#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#remove#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#2906#2907#0" expanded="true" />
+            <element signature="e#2946#2947#0" expanded="true" />
+            <element signature="docComment;method#set#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#getNode#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#getNode#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#getNode#1;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#4183#4249#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#5665#5666#0" expanded="true" />
+            <element signature="e#5699#5700#0" expanded="true" />
+            <element signature="docComment;method#contains#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#contains#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#toString#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#6696#6697#0" expanded="true" />
+            <element signature="e#6743#6744#0" expanded="true" />
+            <element signature="docComment;class#Node#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="class#Node#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0;class#MyLinkedList#0" expanded="false" />
+            <element signature="e#7751#7752#0" expanded="true" />
+            <element signature="e#7852#7853#0" expanded="true" />
+            <element signature="e#7889#7890#0" expanded="true" />
+            <element signature="e#7984#7985#0" expanded="true" />
+            <element signature="e#8137#8138#0" expanded="true" />
+            <element signature="e#8238#8239#0" expanded="true" />
+            <element signature="e#8273#8274#0" expanded="true" />
+            <element signature="e#8374#8375#0" expanded="true" />
+            <element signature="e#8428#8429#0" expanded="true" />
+            <element signature="e#8479#8480#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -198,6 +198,22 @@ public class MyLinkedList<AnyType> implements Iterable<AnyType> {
     }
 
     /**
+     *  Checks to see if an item exists in the list and return true if it does
+     *  and false otherwise.
+     *
+     *  @return true if list contains item
+     */
+    public boolean contains(AnyType x) {
+        for (int i = 0; i < theSize; i++) {
+            // debug: System.out.println("getNode(i).data: " + getNode(i).data);
+            if (getNode(i).data == x) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
      * Returns a String representation of this collection.
      */
     @Override
@@ -243,10 +259,32 @@ public class MyLinkedList<AnyType> implements Iterable<AnyType> {
      * It maintains a notion of a current position and of
      * course the implicit reference to the MyLinkedList.
      */
-    private class LinkedListIterator implements java.util.Iterator<AnyType> {
+    private class LinkedListIterator implements java.util.ListIterator<AnyType> {
         private Node<AnyType> current = beginMarker.next;
         private int expectedModCount = modCount;
         private boolean okToRemove = false;
+        private int idx = 0;
+        private Node<AnyType> nextItem;
+
+        /**
+         * Inserts the specified element into the list.
+         */
+        public void add(AnyType x) {
+
+        }
+        public int nextIndex(){
+            throw new UnsupportedOperationException("nextIndex operation not supported.");
+        }
+        public void set(AnyType x) {
+            throw new UnsupportedOperationException("set operation not supported.");
+        }
+        public int previousIndex(){throw new UnsupportedOperationException("nextIndex operation not supported.");}
+        public boolean hasPrevious(){
+            throw new UnsupportedOperationException("nextIndex operation not supported.");
+        }
+        public AnyType previous(){
+            throw new UnsupportedOperationException("nextIndex operation not supported.");
+        }
 
         @Override
         public boolean hasNext() {
